@@ -31,10 +31,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phat1911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Phat's GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=phat1911&theme=tokyonight&hide_border=true" alt="Phat's contribution streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phat1911&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 ## 🤝 Let's Connect
