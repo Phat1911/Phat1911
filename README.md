@@ -1,26 +1,43 @@
 <div align="center">
 
-# Hi there, I'm Phat 👋
+# Hi 👋, I'm Phat
 
-### Full-stack Web3 Developer · Solidity · React
+### A Full-stack Web3 Developer
+
+<p><strong>Solidity · React · Go · Decentralized Applications</strong></p>
 
 <p>
+  <a href="https://github.com/phat1911">
+    <img src="https://img.shields.io/badge/GitHub-phat1911-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
   <a href="https://github.com/phat1911?tab=followers">
     <img src="https://img.shields.io/github/followers/phat1911?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
   </a>
   <a href="https://github.com/phat1911?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Explore-Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
 </div>
 
+<table>
+  <tr>
+    <td width="56%" valign="top">
+
 ## 👨‍💻 About Me
 
 - 🔗 I build secure, user-friendly decentralized applications.
 - ⚙️ I work across smart contracts, APIs, and modern web interfaces.
-- 🌱 Currently sharpening my skills in Solidity, protocol design, and the React ecosystem.
-- 💬 Ask me about **Solidity, Ethereum, React, TypeScript, and full-stack development**.
+- ⛓️ I specialize in **Solidity**, Ethereum, and Web3 development.
+- 🌱 Currently exploring protocol design and **Go**.
+- 💬 Ask me about **Solidity, React, TypeScript, and full-stack development**.
+
+    </td>
+    <td width="44%" valign="top">
+      <img src="./assets/web3-developer-portrait.png" alt="Cybersecurity and Web3 developer portrait" />
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Languages & Tools
 
