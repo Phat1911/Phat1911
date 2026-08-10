@@ -4,7 +4,7 @@
 
 ### A Full-stack Web3 Developer
 
-<p><strong>Solidity · React · Go · Decentralized Applications</strong></p>
+<p><strong>Solidity · React · Decentralized Applications</strong></p>
 
 <p>
   <a href="https://github.com/phat1911">
@@ -46,7 +46,7 @@
 
 <p>
   <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
-  <img src="https://skillicons.dev/icons?i=solidity,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, Vite" />
+  <img src="https://skillicons.dev/icons?i=solidity,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Vite" />
 </p>
 
 ## 📊 GitHub Stats
