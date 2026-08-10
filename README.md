@@ -26,11 +26,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔗 I build secure, user-friendly decentralized applications.
-- ⚙️ I work across smart contracts, APIs, and modern web interfaces.
-- ⛓️ I specialize in **Solidity**, Ethereum, and Web3 development.
-- 🌱 Currently exploring protocol design and **Go**.
-- 💬 Ask me about **Solidity, React, TypeScript, and full-stack development**.
+- 🌍 I'm from Vietnam. 
+- 🎓 CS student, focused on smart contract development (Solidity).
+- 🔐 Learning by building real DeFi protocols from scratch — with an emphasis on security fundamentals (reentrancy, access control, price manipulation) alongside working code.
+- 🧪 Currently working through Cyfrin CodeHawks First Flights to build audit/security intuition.
+- 🛠️ Tools: Foundry, Solidity. Also comfortable with JS/React from prior work, planning to bring it into a full-stack Web3 project soon.
+- 💬 Ask me about Solidity security patterns, AMM/lending mechanics, or how I use AI-assisted workflows (checkpoints, not copy-paste) to actually learn while building.
+- 🌐 Personal website: https://trandinhhongphat.vercel.app
+- 📫 Reach me at: tdhphat19@gmail.com
 
     </td>
     <td width="44%" valign="top">
