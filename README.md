@@ -25,7 +25,8 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ts,js,react,nextjs,nodejs,express,postgres,mongodb,git,github,tailwind,vite&perline=14" alt="Solidity, Ethereum, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Git, GitHub, Tailwind CSS, Vite" />
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
+  <img src="https://skillicons.dev/icons?i=solidity,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Tailwind CSS, Vite" />
 </p>
 
 ## 📊 GitHub Stats
