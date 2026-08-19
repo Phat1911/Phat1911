@@ -33,7 +33,6 @@
 - 🛠️ Tools: Foundry, Solidity. Also comfortable with JS/React from prior work, planning to bring it into a full-stack Web3 project soon.
 - 💬 Ask me about Solidity security patterns, AMM/lending mechanics, or how I use AI-assisted workflows (checkpoints, not copy-paste) to actually learn while building.
 - 🌐 Personal website: https://trandinhhongphat.vercel.app
-- 🔐 Cryptohack: https://cryptohack.org/user/phat1911/
 - 📫 Reach me at: tdhphat19@gmail.com
 
     </td>
