@@ -63,6 +63,8 @@
   <a href="https://x.com/NicolasTrantco"><img height="40" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/ph%C3%A1t-tr%E1%BA%A7n-3459003b5/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/profile.php?id=100090521350628"><img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://profiles.cyfrin.io/u/hongphat19"><img height="40" src="https://img.shields.io/badge/CodeHawks-111827?style=for-the-badge&logo=cyfrin&logoColor=white" alt="CodeHawks" /></a>
+  <a href="https://cryptohack.org/user/phat1911/"><img height="40" src="https://img.shields.io/badge/CryptoHack-F7DF1E?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="CryptoHack" /></a>
 </p>
 
 <div align="center">
