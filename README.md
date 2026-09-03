@@ -4,7 +4,7 @@
 
 ### A Full-stack Web3 Developer
 
-<p><strong>Solidity · React · Decentralized Applications</strong></p>
+<p><strong>Solidity · Rust · React · Decentralized Applications</strong></p>
 
 <p>
   <a href="https://github.com/phat1911">
@@ -27,10 +27,10 @@
 ## 👨‍💻 About Me
 
 - 🌍 I'm from Vietnam. 
-- 🎓 CS student, focused on smart contract development (Solidity).
+- 🎓 CS student, focused on smart contract development (Solidity, Rust).
 - 🔐 Learning by building real DeFi protocols from scratch — with an emphasis on security fundamentals (reentrancy, access control, price manipulation) alongside working code.
 - 🧪 Currently working through Cyfrin CodeHawks First Flights to build audit/security intuition.
-- 🛠️ Tools: Foundry, Solidity. Also comfortable with JS/React from prior work, planning to bring it into a full-stack Web3 project soon.
+- 🛠️ Tools: Foundry, Solidity, Anchor, Rust. Also comfortable with JS/React from prior work, planning to bring it into a full-stack Web3 project soon.
 - 💬 Ask me about Solidity security patterns, AMM/lending mechanics, or how I use AI-assisted workflows (checkpoints, not copy-paste) to actually learn while building.
 - 🌐 Personal website: https://trandinhhongphat.vercel.app
 - 📫 Reach me at: tdhphat19@gmail.com
@@ -46,7 +46,7 @@
 
 <p>
   <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
-  <img src="https://skillicons.dev/icons?i=solidity,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Vite" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Rust, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Vite" />
 </p>
 
 ## 📊 GitHub Stats
