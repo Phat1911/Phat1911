@@ -59,6 +59,7 @@
 
 <p>
   <a href="https://github.com/phat1911"><img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://trandinhhongphat.vercel.app/research-blog" height="40"><img height="40" src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=cyfrin&logoColor=white" alt="Blog" /></a>
   <a href="https://x.com/NicolasTrantco"><img height="40" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/ph%C3%A1t-tr%E1%BA%A7n-3459003b5/"><img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/profile.php?id=100090521350628"><img height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
