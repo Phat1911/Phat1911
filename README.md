@@ -46,9 +46,11 @@
 
 <p>
   <h3>Primary:</h3> </br>
-  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQGm6Syc-24sxg/company-logo_200_200/B56Zf49GDyG0AM-/0/1752228455134/foundry_biosciences_logo?e=1790208000&v=beta&t=RCIv8nMJGK7P7xa1aBIIBA9D5Qdu6MHEu5ZY6Jlhr1E" width="48" height="48" alt="Foundary" />
-  <img src="https://miro.medium.com/v2/resize:fit:618/format:webp/1*Un7O1rPRjO4_-RgaA2ZTQg.png" width="48" height="48" alt="Foundary" />
+  <span>
+    <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQGm6Syc-24sxg/company-logo_200_200/B56Zf49GDyG0AM-/0/1752228455134/foundry_biosciences_logo?e=1790208000&v=beta&t=RCIv8nMJGK7P7xa1aBIIBA9D5Qdu6MHEu5ZY6Jlhr1E" width="48" height="48" alt="Foundary" />
+    <img src="https://miro.medium.com/v2/resize:fit:618/format:webp/1*Un7O1rPRjO4_-RgaA2ZTQg.png" width="48" height="48" alt="Foundary" />
+  </span>
   <img src="https://skillicons.dev/icons?i=solidity,rust,ethereum,solana&perline=14" alt="Solidity, Rust, Ethereum, Solana" />
   <h3>Supporting:</h3> </br>
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs&perline=14" alt="Solidity, Rust, Ethereum, Solana" />
