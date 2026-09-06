@@ -4,7 +4,7 @@
 
 ### A Full-stack Web3 Developer
 
-<p><strong>Solidity · Rust · React · Decentralized Applications</strong></p>
+<p><strong>CS Student | Smart Contract & Web3 Developer</strong></p>
 
 <p>
   <a href="https://github.com/phat1911">
@@ -28,10 +28,10 @@
 
 - 🌍 I'm from Vietnam. 
 - 🎓 CS student, focused on smart contract development (Solidity, Rust).
-- 🔐 Learning by building real DeFi protocols from scratch — with an emphasis on security fundamentals (reentrancy, access control, price manipulation) alongside working code.
+- 🔐 Learning by implementing DeFi protocols from scratch, with an emphasis on understanding their mechanics, testing, and security assumptions.
 - 🧪 Currently working through Cyfrin CodeHawks First Flights to build audit/security intuition.
 - 🛠️ Tools: Foundry, Solidity, Anchor, Rust. Also comfortable with JS/React from prior work, planning to bring it into a full-stack Web3 project soon.
-- 💬 Ask me about Solidity security patterns, AMM/lending mechanics, or how I use AI-assisted workflows (checkpoints, not copy-paste) to actually learn while building.
+- 💬 Interested in discussing Solidity security patterns, AMM/lending mechanics, and learning workflows for AI-assisted development.
 - 🌐 Personal website: https://trandinhhongphat.vercel.app
 - 📫 Reach me at: tdhphat19@gmail.com
 
@@ -45,8 +45,13 @@
 ## 🧰 Languages & Tools
 
 <p>
+  <h3>Primary:</h3> </br>
   <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48" height="48" alt="Ethereum" />
-  <img src="https://skillicons.dev/icons?i=solidity,rust,go,ts,js,react,nextjs,nodejs,express,postgres,mongodb,tailwind,vite&perline=14" alt="Solidity, Rust, Go, TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Vite" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGm6Syc-24sxg/company-logo_200_200/B56Zf49GDyG0AM-/0/1752228455134/foundry_biosciences_logo?e=1790208000&v=beta&t=RCIv8nMJGK7P7xa1aBIIBA9D5Qdu6MHEu5ZY6Jlhr1E" width="48" height="48" alt="Foundary" />
+  <img src="https://miro.medium.com/v2/resize:fit:618/format:webp/1*Un7O1rPRjO4_-RgaA2ZTQg.png" width="48" height="48" alt="Foundary" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ethereum,solana&perline=14" alt="Solidity, Rust, Ethereum, Solana" />
+  <h3>Supporting:</h3> </br>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs&perline=14" alt="Solidity, Rust, Ethereum, Solana" />
 </p>
 
 ## 📊 GitHub Stats
